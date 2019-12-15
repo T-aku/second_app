@@ -1,0 +1,245 @@
+sqlite3-shell.o: shell.c /home/linuxbrew/.linuxbrew/include/stdc-predef.h \
+ /home/linuxbrew/.linuxbrew/include/stdlib.h \
+ /home/linuxbrew/.linuxbrew/include/features.h \
+ /home/linuxbrew/.linuxbrew/include/sys/cdefs.h \
+ /home/linuxbrew/.linuxbrew/include/bits/wordsize.h \
+ /home/linuxbrew/.linuxbrew/include/gnu/stubs.h \
+ /home/linuxbrew/.linuxbrew/include/gnu/stubs-64.h \
+ /home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stddef.h \
+ /home/linuxbrew/.linuxbrew/include/bits/waitflags.h \
+ /home/linuxbrew/.linuxbrew/include/bits/waitstatus.h \
+ /home/linuxbrew/.linuxbrew/include/endian.h \
+ /home/linuxbrew/.linuxbrew/include/bits/endian.h \
+ /home/linuxbrew/.linuxbrew/include/bits/byteswap.h \
+ /home/linuxbrew/.linuxbrew/include/bits/types.h \
+ /home/linuxbrew/.linuxbrew/include/bits/typesizes.h \
+ /home/linuxbrew/.linuxbrew/include/bits/byteswap-16.h \
+ /home/linuxbrew/.linuxbrew/include/sys/types.h \
+ /home/linuxbrew/.linuxbrew/include/time.h \
+ /home/linuxbrew/.linuxbrew/include/sys/select.h \
+ /home/linuxbrew/.linuxbrew/include/bits/select.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sigset.h \
+ /home/linuxbrew/.linuxbrew/include/bits/time.h \
+ /home/linuxbrew/.linuxbrew/include/sys/sysmacros.h \
+ /home/linuxbrew/.linuxbrew/include/bits/pthreadtypes.h \
+ /home/linuxbrew/.linuxbrew/include/alloca.h \
+ /home/linuxbrew/.linuxbrew/include/bits/stdlib-bsearch.h \
+ /home/linuxbrew/.linuxbrew/include/bits/stdlib-float.h \
+ /home/linuxbrew/.linuxbrew/include/string.h \
+ /home/linuxbrew/.linuxbrew/include/xlocale.h \
+ /home/linuxbrew/.linuxbrew/include/bits/string.h \
+ /home/linuxbrew/.linuxbrew/include/bits/string2.h \
+ /home/linuxbrew/.linuxbrew/include/stdio.h \
+ /home/linuxbrew/.linuxbrew/include/libio.h \
+ /home/linuxbrew/.linuxbrew/include/_G_config.h \
+ /home/linuxbrew/.linuxbrew/include/wchar.h \
+ /home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stdarg.h \
+ /home/linuxbrew/.linuxbrew/include/bits/stdio_lim.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sys_errlist.h \
+ /home/linuxbrew/.linuxbrew/include/bits/stdio.h \
+ /home/linuxbrew/.linuxbrew/include/assert.h sqlite3.h \
+ /home/linuxbrew/.linuxbrew/include/ctype.h \
+ /home/linuxbrew/.linuxbrew/include/signal.h \
+ /home/linuxbrew/.linuxbrew/include/bits/signum.h \
+ /home/linuxbrew/.linuxbrew/include/bits/siginfo.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sigaction.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sigcontext.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sigstack.h \
+ /home/linuxbrew/.linuxbrew/include/sys/ucontext.h \
+ /home/linuxbrew/.linuxbrew/include/bits/sigthread.h \
+ /home/linuxbrew/.linuxbrew/include/pwd.h \
+ /home/linuxbrew/.linuxbrew/include/unistd.h \
+ /home/linuxbrew/.linuxbrew/include/bits/posix_opt.h \
+ /home/linuxbrew/.linuxbrew/include/bits/environments.h \
+ /home/linuxbrew/.linuxbrew/include/bits/confname.h \
+ /home/linuxbrew/.linuxbrew/include/getopt.h \
+ /home/linuxbrew/.linuxbrew/include/dirent.h \
+ /home/linuxbrew/.linuxbrew/include/bits/dirent.h \
+ /home/linuxbrew/.linuxbrew/include/bits/posix1_lim.h \
+ /home/linuxbrew/.linuxbrew/include/bits/local_lim.h \
+ /home/linuxbrew/.linuxbrew/include/linux/limits.h \
+ /home/linuxbrew/.linuxbrew/include/sys/stat.h \
+ /home/linuxbrew/.linuxbrew/include/bits/stat.h \
+ /home/linuxbrew/.linuxbrew/include/sys/time.h \
+ /home/linuxbrew/.linuxbrew/include/sys/resource.h \
+ /home/linuxbrew/.linuxbrew/include/bits/resource.h \
+ /home/linuxbrew/.linuxbrew/include/fcntl.h \
+ /home/linuxbrew/.linuxbrew/include/bits/fcntl.h \
+ /home/linuxbrew/.linuxbrew/include/bits/fcntl-linux.h \
+ /home/linuxbrew/.linuxbrew/include/utime.h \
+ /home/linuxbrew/.linuxbrew/include/errno.h \
+ /home/linuxbrew/.linuxbrew/include/bits/errno.h \
+ /home/linuxbrew/.linuxbrew/include/linux/errno.h \
+ /home/linuxbrew/.linuxbrew/include/asm/errno.h \
+ /home/linuxbrew/.linuxbrew/include/asm-generic/errno.h \
+ /home/linuxbrew/.linuxbrew/include/asm-generic/errno-base.h \
+ /home/linuxbrew/.linuxbrew/include/zlib.h \
+ /home/linuxbrew/.linuxbrew/include/zconf.h \
+ /home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include-fixed/limits.h \
+ /home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include-fixed/syslimits.h \
+ /home/linuxbrew/.linuxbrew/include/limits.h \
+ /home/linuxbrew/.linuxbrew/include/bits/posix2_lim.h
+
+/home/linuxbrew/.linuxbrew/include/stdc-predef.h:
+
+/home/linuxbrew/.linuxbrew/include/stdlib.h:
+
+/home/linuxbrew/.linuxbrew/include/features.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/cdefs.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/wordsize.h:
+
+/home/linuxbrew/.linuxbrew/include/gnu/stubs.h:
+
+/home/linuxbrew/.linuxbrew/include/gnu/stubs-64.h:
+
+/home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stddef.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/waitflags.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/waitstatus.h:
+
+/home/linuxbrew/.linuxbrew/include/endian.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/endian.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/byteswap.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/types.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/typesizes.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/byteswap-16.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/types.h:
+
+/home/linuxbrew/.linuxbrew/include/time.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/select.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/select.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sigset.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/time.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/sysmacros.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/pthreadtypes.h:
+
+/home/linuxbrew/.linuxbrew/include/alloca.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/stdlib-bsearch.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/stdlib-float.h:
+
+/home/linuxbrew/.linuxbrew/include/string.h:
+
+/home/linuxbrew/.linuxbrew/include/xlocale.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/string.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/string2.h:
+
+/home/linuxbrew/.linuxbrew/include/stdio.h:
+
+/home/linuxbrew/.linuxbrew/include/libio.h:
+
+/home/linuxbrew/.linuxbrew/include/_G_config.h:
+
+/home/linuxbrew/.linuxbrew/include/wchar.h:
+
+/home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include/stdarg.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/stdio_lim.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sys_errlist.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/stdio.h:
+
+/home/linuxbrew/.linuxbrew/include/assert.h:
+
+sqlite3.h:
+
+/home/linuxbrew/.linuxbrew/include/ctype.h:
+
+/home/linuxbrew/.linuxbrew/include/signal.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/signum.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/siginfo.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sigaction.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sigcontext.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sigstack.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/ucontext.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/sigthread.h:
+
+/home/linuxbrew/.linuxbrew/include/pwd.h:
+
+/home/linuxbrew/.linuxbrew/include/unistd.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/posix_opt.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/environments.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/confname.h:
+
+/home/linuxbrew/.linuxbrew/include/getopt.h:
+
+/home/linuxbrew/.linuxbrew/include/dirent.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/dirent.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/posix1_lim.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/local_lim.h:
+
+/home/linuxbrew/.linuxbrew/include/linux/limits.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/stat.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/stat.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/time.h:
+
+/home/linuxbrew/.linuxbrew/include/sys/resource.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/resource.h:
+
+/home/linuxbrew/.linuxbrew/include/fcntl.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/fcntl.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/fcntl-linux.h:
+
+/home/linuxbrew/.linuxbrew/include/utime.h:
+
+/home/linuxbrew/.linuxbrew/include/errno.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/errno.h:
+
+/home/linuxbrew/.linuxbrew/include/linux/errno.h:
+
+/home/linuxbrew/.linuxbrew/include/asm/errno.h:
+
+/home/linuxbrew/.linuxbrew/include/asm-generic/errno.h:
+
+/home/linuxbrew/.linuxbrew/include/asm-generic/errno-base.h:
+
+/home/linuxbrew/.linuxbrew/include/zlib.h:
+
+/home/linuxbrew/.linuxbrew/include/zconf.h:
+
+/home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include-fixed/limits.h:
+
+/home/linuxbrew/.linuxbrew/Cellar/gcc/5.5.0_7/lib/gcc/x86_64-unknown-linux-gnu/5.5.0/include-fixed/syslimits.h:
+
+/home/linuxbrew/.linuxbrew/include/limits.h:
+
+/home/linuxbrew/.linuxbrew/include/bits/posix2_lim.h:
