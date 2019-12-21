@@ -13,8 +13,8 @@ module SecondApp
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 6.0
     
-    config.hosts << "775e3568c30c44a9b0a48234e0577160.vfs.cloud9.ap-northeast-1.amazonaws.com"
-
+    
+    
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
