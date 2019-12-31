@@ -20,4 +20,4 @@ require("jquery")
 // const imagePath = (name) => images(name, true)
 
 import 'bootstrap'
-import '../src/application.scss'
+import '/home/ec2-user/environment/rails.projects/second_app/app/javascript/src/application.scss'
