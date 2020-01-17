@@ -35,6 +35,11 @@
   background-color: #fff;
 }
 
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
+}
+
 footer {
   margin-top: 45px;
   padding-top: 5px;
@@ -80,6 +85,8 @@ footer ul li {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+
 
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
